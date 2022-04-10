@@ -1,0 +1,50 @@
+  390  ls
+  391  cd CU-VIRT-FIN-PT-03-2022-U-B/
+  392  git pull
+  393  conda activate dev
+  394  cd Desktop/Fintech-Workspace/fintech-spring-summer/
+  395  ls
+  396  git clone git@github.com:TracyMichael/Module-Challenge-3.git
+  397  git add .
+  398  git commit -m "First Files"
+  399  git push
+  400  cd Module-Challenge-3
+  401  git add .
+  402  git commit -m "First Files"
+  403  git push
+  404  git add .
+  405  git commit -m "2nd Set"
+  406  git push
+  407  conda activate dev
+  408  cd Desktop/Fintech-Workspace/fintech-spring-summer/Module-Challenge-3
+  409  git add .
+  410  git commit -m "More Work"
+  411  git push
+  412  conda activate dev
+  413  cd Desktop/Fintech-Workspace/fintech-spring-summer/Module-Challenge-3
+  414  pip list --format=freeze > requirements.txt
+  415  git add .
+  416  git commit -m "Updates"
+  417  git push
+  418  cd Starter_Code-2/ls
+  419  cd Star
+  420  cd Starter_Code-2/
+  421  ls
+  422  cd Notebook/
+  423  pip list --format=freeze > requirements.txt
+  424  ls
+  425  cd ..
+  426  cd ..
+  427  git add .
+  428  git commit -m "ReadMe Update"
+  429  git push
+  430  git add .
+  431  git commit -m "readme 2"
+  432  git push
+  433  git add .
+  434  git commit -m "read me 3"
+  435  git push
+  436  git add .
+  437  git commit -m "Final Changes"
+  438  git push
+  439  history 50 > terminal_history.txt
