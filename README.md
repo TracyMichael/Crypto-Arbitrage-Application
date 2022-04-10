@@ -27,7 +27,7 @@ import numpy as np
 
 Further details denoting requirements and verions are available in the requirements file.
 
-[Requirements](../requirements.txt)
+[Requirements](./Starter_Code-2/requirements.txt)
 
 
 ---
@@ -57,7 +57,6 @@ Comment placements are listed above each section of the application.  Informatio
 
 1. The application intially imports different modules that will be useful.
 
-    -There are various files that used to filter the main loan list.
 
 2. Functions are defined to filter the list based on the user information.  Explanations of each Library and/or Import is available in the comment section of the application. Some functions are directly connected to user input through the Command Line Interface (Questionary & Fire), while others have purposes that build the application from a different persepctive.
 
@@ -65,21 +64,32 @@ Comment placements are listed above each section of the application.  Informatio
 
 
 
-### **For Users:** Use the loan qualifier application from your terminal as follows:
+### **For Users:** Use the Crypto Arbitrage Application to understand Historical data from Bitstamp and Coinbase:
 
-*In the terminal you will be prompted to answer or fill in the following questions or commands in the order listed below.  The provided information will ultimately provide a list of qualifying loans based on the user inputs:*
+The application includes the following charts
 
-    1. Enter a file path to a rate-sheet
-    2. What's your credit score?
-    3. What's your current amount of monthly debt?
-    4. What's your total monthly income?
-    5. What's your desired loan amount?
-    6. What's your home value?
-    7. Enter a file path for saved data
+**Charts**
 
-**A display of the Terminal is below**
+1. Bitstamp Prices Jan 13 - 27
+2. Coinbase Prices Jan 13 - 27
+3. Bitstamp & Coinbase Prices (Jan 13 - 27)
+4. Early Bitstamp & Coinbase Prices (Jan 10th - Feb 10th)
+5. Late Bitstamp & Coinbase Prices (Feb 26th - Mar 26th)
+6. Late Bitstamp & Coinbase Prices (Jan 4th 2018)
+7. Arbitrage Early Spread
+8. Midle Bitstamp & Coinbase Prices (Jan 21st 2018)
+9. Arbitrage Middle Spread
+10. Late Bitstamp & Coinbase Prices (Jan 26th 2018)
+11. Arbitrage Late Spread
+12. Profit Per Trade (Jan 16th 2018)
+13. Cumulative Profits (Jan 16th 2018)
 
-![LQA](https://github.com/TracyMichael/Module-Challenge-2/blob/main/Starter_Code/loan_qualifier_app/Images/Loan_Qualifier_App.png)
+
+
+
+**A display of the Final Chart (Cumulative Profits from Jan 16th 2018) is listed below**
+
+![CP](https://github.com/TracyMichael/Module-Challenge-3/blob/main/Starter_Code-2/images/Cumulative Profits (Jan 16th 2018).png)
 
 
 ---
