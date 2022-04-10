@@ -51,16 +51,14 @@ pip install -r requirements.txt
 
 
 
-### **For Coding Purposes:** Use the loan qualifier application from your terminal as follows:
+### **For Coding Purposes:** 
 
-Comment placements are listed above each section of the application.  Information can be used to explain each function and/or import within the application.
 
 1. The application intially imports different modules that will be useful.
-
-
-2. Functions are defined to filter the list based on the user information.  Explanations of each Library and/or Import is available in the comment section of the application. Some functions are directly connected to user input through the Command Line Interface (Questionary & Fire), while others have purposes that build the application from a different persepctive.
-
-3. The sub files are used to filter the loan list, import/export csv files into the application, and/or calculate relative ratios or calculations.
+2. Collect the data using read_csv and run minor analytics to understand the datasets.
+3. Prepare the data with the proper data types to be used for analytics.
+4. Analyze the data by choosing segments of data, running summaries, and creating charts (Box Plot and Plot).
+5. Calculate Arbitrage Profits using statistical funcitons to understand the profit possibilities.
 
 
 
@@ -82,7 +80,7 @@ The application includes the following charts
 10. Late Bitstamp & Coinbase Prices (Jan 26th 2018)
 11. Arbitrage Late Spread
 12. Profit Per Trade (Jan 16th 2018)
-13. Cumulative Profits (Jan 16th 2018)
+13. Cumulative Profits (Jan 16th 2018)*
 
 
 
