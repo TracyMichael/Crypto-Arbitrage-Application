@@ -87,7 +87,7 @@ The application includes the following charts
 
 **A display of the Final Chart (Cumulative Profits from Jan 16th 2018) is listed below**
 
-![CP](https://github.com/TracyMichael/Module-Challenge-3/blob/main/Starter_Code-2/images/Cumulative_Profits_Jan_16th_2018.png)
+![CP](./Starter_Code-2/images/Cumulative_Profits_Jan_16th_2018.png)
 
 
 ---
